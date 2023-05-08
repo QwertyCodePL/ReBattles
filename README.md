@@ -1,3 +1,4 @@
 # ReBattles
-## story
-Time to battle!
+Simple PvP battle!
+(Wiki in buid)
+
